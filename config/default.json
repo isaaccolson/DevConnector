@@ -1,0 +1,4 @@
+{
+  "mangoURI": "mongodb+srv://isaactest:isaactest123@devconnector-fvahl.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "123mysecrettoken098"
+}
